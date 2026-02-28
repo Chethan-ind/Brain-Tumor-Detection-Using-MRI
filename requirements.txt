@@ -1,0 +1,22 @@
+# ─────────────────────────────────────────────────────
+#  NeuroScan AI — Requirements
+#  Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────
+
+# Core ML
+tensorflow==2.15.0
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# Image processing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Web app
+streamlit==1.35.0
+
+# PDF report generation
+reportlab==4.2.0
+
+# Plotting (training history, ROC curve)
+matplotlib==3.8.4

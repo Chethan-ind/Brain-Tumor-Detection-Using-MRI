@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.h5
+*.keras
+*.ckpt
+*.log
+.DS_Store
+.ipynb_checkpoints
+venv/
